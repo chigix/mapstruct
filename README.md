@@ -10,8 +10,8 @@ All code for this senerio have been prepared, directly run
 
 The errors would be shown:
 
-![](images/2017-11-16 00_08_13-Clipboard.png)
+![](images/00_08_13-Clipboard.png)
 
 And the problem in the generated code is highlighted below:
 
-![](images/2017-11-16 00_13_31-Clipboard.png)
+![](images/00_13_31-Clipboard.png)
